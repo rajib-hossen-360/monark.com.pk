@@ -427,17 +427,17 @@ export function Navbar({ bagCount, onOpenCart }: NavbarProps) {
               </span>
             </div>
 
-            {/* Center: Monark Official Brand Identity */}
+            {/* Center: Brand Identity Logo */}
             <div className="flex-1 flex justify-center items-center">
               <a
                 href="#top"
                 className="flex items-center justify-center group py-1"
-                aria-label="Monark Home"
+                aria-label="WebKyro Home"
               >
                 <img
-                  src="https://monark.com.pk/cdn/shop/files/logo_white_opt_265x_1b1a0c46-5798-493d-8231-8372612f5939.png?v=1666374472&width=185"
-                  alt="Monark Clothing"
-                  className="h-5 sm:h-6 md:h-7 w-auto object-contain transition-opacity duration-300"
+                  src="/webkyro-full-logo-transparent-hd.png"
+                  alt="WebKyro"
+                  className="h-7 sm:h-8 md:h-9 w-auto object-contain transition-opacity duration-300"
                   onError={(e) => {
                     e.currentTarget.style.display = 'none';
                     const fallback = e.currentTarget.parentElement?.querySelector('.brand-text-fallback');
@@ -445,7 +445,7 @@ export function Navbar({ bagCount, onOpenCart }: NavbarProps) {
                   }}
                 />
                 <span className="brand-text-fallback hidden font-sans text-xl sm:text-2xl font-bold tracking-[0.18em] text-[#171717] uppercase">
-                  ◇ MONARK
+                  WEBKYRO
                 </span>
               </a>
             </div>
@@ -697,9 +697,9 @@ export function Navbar({ bagCount, onOpenCart }: NavbarProps) {
             <div className="flex items-center justify-between p-4 border-b border-[#eee]">
               <a href="#top" onClick={() => setMobileMenuOpen(false)} className="flex items-center">
                 <img
-                  src="https://monark.com.pk/cdn/shop/files/logo_white_opt_265x_1b1a0c46-5798-493d-8231-8372612f5939.png?v=1666374472&width=120"
-                  alt="Monark"
-                  className="h-5 w-auto object-contain"
+                  src="/webkyro-full-logo-transparent-hd.png"
+                  alt="WebKyro"
+                  className="h-6 w-auto object-contain"
                 />
               </a>
               <button

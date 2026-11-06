@@ -397,12 +397,12 @@ export function QuietNorth() {
       {/* ========================================================= */}
       <div className="border-b border-[#e5e5e5] bg-[#fafafa]">
         <div className="max-w-4xl mx-auto px-6 py-16 sm:py-24 text-center">
-          {/* Official Monark Logo Image */}
+          {/* Official Brand Logo Image */}
           <div className="flex justify-center mb-6">
             <img
-              src="https://monark.com.pk/cdn/shop/files/logo.png?v=1791185232&width=400"
-              alt="Monark"
-              className="h-8 sm:h-11 w-auto object-contain filter contrast-125"
+              src="/webkyro-full-logo-transparent-hd.png"
+              alt="WebKyro"
+              className="h-9 sm:h-12 w-auto object-contain filter contrast-125"
             />
           </div>
 

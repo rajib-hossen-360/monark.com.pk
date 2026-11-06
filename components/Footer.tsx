@@ -382,9 +382,14 @@ export function Footer() {
         </div>
 
         {/* Bottom Bar: Copyright & Safe area for mobile toolbar */}
-        <div className="mt-8 pt-4 border-t border-[#e6e6e6] text-center pb-16 md:pb-6 text-xs text-[#878787]">
+        <div className="mt-8 pt-6 border-t border-[#e6e6e6] text-center pb-16 md:pb-6 text-xs text-[#878787] flex flex-col items-center gap-3">
+          <img
+            src="/webkyro-full-logo-transparent-hd.png"
+            alt="WebKyro"
+            className="h-6 w-auto object-contain opacity-80"
+          />
           <p>
-            Copyright &copy; {new Date().getFullYear()} <strong className="text-[#333]">Monark</strong>. All rights reserved.
+            Copyright &copy; {new Date().getFullYear()} <strong className="text-[#333]">WebKyro</strong>. All rights reserved.
           </p>
         </div>
       </div>
