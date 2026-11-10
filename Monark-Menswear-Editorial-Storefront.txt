@@ -1,0 +1,13 @@
+PRODUCT NAME: Monark Menswear Editorial Storefront
+CATEGORY: E-commerce / Fashion & Apparel
+PRICE (USD): $49
+COMPARE-AT PRICE (USD): $69
+RATING: 0
+REVIEW COUNT: 0
+CARD TAG: Featured
+DESCRIPTION: A polished menswear storefront built around seasonal outerwear, knitwear, and modern wardrobe essentials. Pair editorial campaign storytelling with interactive product discovery and responsive shopping components.
+HERO TAGLINE: Modern Layers. Quiet Confidence.
+TECHNOLOGIES: Next.js, React, TypeScript, Tailwind CSS
+INCLUDED PAGES: Home
+FEATURES: Four-slide editorial hero carousel, Auto-rotating announcement bar, Interactive mega-menu and mobile navigation, New-arrivals product showcase, Category filtering, Product quick view, Size-based quick add, Wishlist interaction, Seasonal campaign gallery with fullscreen lightbox, Newsletter signup interface
+INCLUDED WITH YOUR PURCHASE: Complete homepage storefront, Reusable navigation, hero, product, and footer components, 13 sample new-arrival products with imagery and size variants, Responsive layout and branded favicon assets
